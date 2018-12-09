@@ -119,3 +119,19 @@ body {
     margin-top: 130px;
 }
 
+#start-button {
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 95px;
+}
+
+.button {
+  font-size: 1.0em;
+  background-color: #847f7f;
+}
+
+
+
+
+
+
